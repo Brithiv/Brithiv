@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Advanced Excel, SQL, Power BI, Python**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-biruthivin-bk.42web.io/](https://portfolio-biruthivin-bk.42web.io/)
+- 👨‍💻 All of my projects are available at [https://biruthivin-portfolio.42web.io/](https://biruthivin-portfolio.42web.io/)
 
 - 📫 How to reach me **bkbrithivin@gmail.com**
 
